@@ -49,7 +49,13 @@
 
 ## 环境搭建
 
-### 1. 后端搭建
+### 1. 数据库搭建
+
+- 创建数据库：demo_album
+
+- 执行数据库文件：demo_album.sql
+
+### 2. 后端搭建
 
 - 项目代码
   
@@ -71,7 +77,7 @@
   DemoAlbumApplication.java
   ```
 
-### 2. 前端搭建
+### 3. 前端搭建
 
 1. 项目代码
    
@@ -93,10 +99,10 @@
 
 ### 前端界面截图
 
-- ![图片alt](/Users/jean/Desktop/demo_album%20项目源码/images/登录页面.jpg "图片title")
-- ![用户登录页面](/Users/jean/Desktop/demo_album%20项目源码/images/注册页面.jpg)
-- ![图片alt](/Users/jean/Desktop/demo_album%20项目源码/images/广场页面.jpg "图片title")
-- ![图片alt](/Users/jean/Desktop/demo_album%20项目源码/images/图片详情页面.jpg "图片title")
+- ![图片alt](./images/登录页面.jpg "图片title")
+- ![用户登录页面](./images/注册页面.jpg)
+- ![图片alt](./images/广场页面.jpg "图片title")
+- ![图片alt](./images/图片详情页面.jpg "图片title")
 
 ## 项目优化与扩展
 
